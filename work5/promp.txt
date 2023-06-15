@@ -1,0 +1,1 @@
+prompt = 'This house should be decorated in the most luxurious Nordic style, with neatly arranged mahogany furniture.'
